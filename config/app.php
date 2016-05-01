@@ -156,6 +156,8 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        Infusionsoft\FrameworkSupport\Laravel\InfusionsoftServiceProvider::class,
+
     ],
 
     /*
@@ -201,6 +203,7 @@ return [
         'URL' => Illuminate\Support\Facades\URL::class,
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
+        'Infusionsoft' => Infusionsoft\FrameworkSupport\Laravel\InfusionsoftFacade::class,
 
     ],
 

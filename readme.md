@@ -9,3 +9,16 @@
 The idea is to make RESTful endpoints for various stuff for InfusionSoft
 
 Feel free to add more endpoints for stuff you'd like to use, maybe
+
+# Documentation
+
+Will make this better eventually...
+
+## Endpoints
+
+### /webforms/
+
+*endpoint* /webforms/access_token={access_token}&token_type={token_type}&expires_in={expires_in}&refresh_token={refresh_token}&scope={scope}
+
+*returns*
+[{"form_id":"form_name","form_id":"form_name"}]
