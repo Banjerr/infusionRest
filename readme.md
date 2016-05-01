@@ -22,6 +22,15 @@ Will make this better eventually...
 
 /webforms/access_token={access_token}&token_type={token_type}&expires_in={expires_in}&refresh_token={refresh_token}&scope={scope}
 
+*required parameters*
+
+- access_token
+- token_type
+- expires_in
+- refresh_token
+- scope
+
+
 #### Returns
 
 [{"form_id":"form_name","form_id":"form_name"}]
