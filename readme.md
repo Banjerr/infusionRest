@@ -8,7 +8,7 @@
 
 The idea is to make RESTful endpoints for various stuff for InfusionSoft
 
-Feel free to add more endpoints for stuff you'd like to use, maybe
+Feel free to add more endpoints for stuff you'd like to use, maybe. See Contributing section for info.
 
 # Documentation
 
@@ -30,7 +30,18 @@ Will make this better eventually...
 - refresh_token
 - scope
 
-
 #### Returns
 
 [{"form_id":"form_name","form_id":"form_name"}]
+
+# Contributing
+
+If there's an endpoint you need and don't see, make it yo self!
+
+- Open a ticket with feature requests (and we might get to it, eventually)
+
+*or*
+
+- fork the repo
+- make a feature branch (i.e. contact_tag_endpoint)
+- make a pull request

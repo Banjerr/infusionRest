@@ -39,6 +39,7 @@
         <div class="container">
             <div class="content">
                 <div class="title">InfusionRest</div>
+                <p>Because sometimes you want REST endpoints that InfusionSoft doesn't provide yet...</p>
             </div>
         </div>
     </body>
