@@ -18,7 +18,10 @@ Will make this better eventually...
 
 ### /webforms/
 
-*endpoint* /webforms/access_token={access_token}&token_type={token_type}&expires_in={expires_in}&refresh_token={refresh_token}&scope={scope}
+#### Endpoint
 
-*returns*
+/webforms/access_token={access_token}&token_type={token_type}&expires_in={expires_in}&refresh_token={refresh_token}&scope={scope}
+
+#### Returns
+
 [{"form_id":"form_name","form_id":"form_name"}]
